@@ -1,0 +1,9 @@
+Future stock price prediction has been a popular application for machine learning models 
+since the rise of modern machine learning. The MoneyMaker3000 is an XGBoost-based machine 
+learning model designed to do just this. It will be trained on a variety of big tech 
+stock data pulled from yahoo finance, as well as data from other sources when it is needed.
+Once trained the model will be applied to predict the future price of a desired tech 
+stock. After achieving acceptable results the model will be presented through a web app 
+that allows the user to search/select a stock ticker symbol and the model will be used to 
+make predictions of the future stock price at set intervals into the future: one day, week, 
+and month. 
